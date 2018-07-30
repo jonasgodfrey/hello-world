@@ -1,2 +1,4 @@
-my name is Godfrey and i am an upcoming developer
-Thank you for this platform.
+# hello-world
+my first repository
+My name is GODFREY JONAS! I am an upcomming web developer and am so curious to learning New stuffs
+
